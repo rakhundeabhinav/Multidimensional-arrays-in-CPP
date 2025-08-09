@@ -5,10 +5,10 @@ int main() {
     int A[10][10], n;
     int primarySum = 0, secondarySum = 0;
 
-    cout << "Enter size of square matrix (n x n): ";
+    cout << "Enter size of matrix (n x n): ";
     cin >> n;
 
-    cout << "Enter matrix elements:\n";
+    cout << "Enter elements:\n";
     for (int i = 0; i < n; i++) {
         for (int j = 0; j < n; j++) {
             cin >> A[i][j];
@@ -36,4 +36,5 @@ int main() {
 
     return 0;
 }
+
 
