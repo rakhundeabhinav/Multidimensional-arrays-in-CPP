@@ -72,7 +72,7 @@ In a 2D array, data is stored in rows and columns, and elements are accessed usi
 
 ---
 
-**### Compare One Row with Another**
+### **5️⃣ Compare One Row with Another**
 
 **Description:**
 
